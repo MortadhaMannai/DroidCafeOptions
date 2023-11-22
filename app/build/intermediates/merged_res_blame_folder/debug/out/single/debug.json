@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-mdpi_ic_map.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-mdpi/ic_map.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-mdpi_ic_favorite.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-mdpi/ic_favorite.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-hdpi_ic_shopping_cart.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-hdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xhdpi_ic_favorite.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-xhdpi/ic_favorite.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-hdpi_ic_map.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-hdpi/ic_map.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xxhdpi_ic_map.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-xxhdpi/ic_map.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-pngs-24:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-pngs-24:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-pngs-24:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-pngs-24:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xxhdpi_ic_shopping_cart.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-xxhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-mdpi_ic_shopping_cart.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-mdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-hdpi_ic_status_info.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-hdpi/ic_status_info.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xxhdpi_ic_status_info.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-xxhdpi/ic_status_info.png"
+    },
+    {
+        "merged": "com.example.android.droidcafeoptions.app-merged_res-28:/layout_activity_order.xml.flat",
+        "source": "com.example.android.droidcafeoptions.app-main-30:/layout/activity_order.xml"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable_icecream_circle.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable/icecream_circle.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/menu_menu_main.xml.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-mdpi_ic_status_info.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-mdpi/ic_status_info.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/layout_content_main.xml.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-xhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-hdpi_ic_favorite.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-hdpi/ic_favorite.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/layout_activity_order.xml.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/layout/activity_order.xml"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable_donut_circle.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable/donut_circle.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable_froyo_circle.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable/froyo_circle.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xhdpi_ic_map.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-xhdpi/ic_map.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xxhdpi_ic_favorite.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-xxhdpi/ic_favorite.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xhdpi_ic_status_info.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/drawable-xhdpi/ic_status_info.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-pngs-24:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-pngs-24:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-merged_res-28:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/mannaimortadha/.gradle/daemon/8.0/com.example.android.droidcafeoptions.app-pngs-24:/drawable-xxxhdpi/ic_launcher_background.png"
+    }
+]

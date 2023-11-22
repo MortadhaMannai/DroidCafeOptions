@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2018 Google Inc.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.droidcafeoptions"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="16"
+24        android:targetSdkVersion="33" />
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] /Users/mannaimortadha/.gradle/caches/transforms-3/5bed316c9c43a8bc7d9832f0735edfcf/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.android.droidcafeoptions.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] /Users/mannaimortadha/.gradle/caches/transforms-3/5bed316c9c43a8bc7d9832f0735edfcf/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] /Users/mannaimortadha/.gradle/caches/transforms-3/5bed316c9c43a8bc7d9832f0735edfcf/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.android.droidcafeoptions.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] /Users/mannaimortadha/.gradle/caches/transforms-3/5bed316c9c43a8bc7d9832f0735edfcf/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] /Users/mannaimortadha/.gradle/caches/transforms-3/5bed316c9c43a8bc7d9832f0735edfcf/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:20:5-39:19
+33        android:allowBackup="true"
+33-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:21:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] /Users/mannaimortadha/.gradle/caches/transforms-3/5bed316c9c43a8bc7d9832f0735edfcf/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+35        android:debuggable="true"
+36        android:extractNativeLibs="true"
+37        android:icon="@mipmap/ic_launcher"
+37-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:22:9-43
+38        android:label="@string/app_name"
+38-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:23:9-41
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:24:9-54
+40        android:supportsRtl="true"
+40-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:25:9-35
+41        android:testOnly="true"
+42        android:theme="@style/AppTheme" >
+42-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:26:9-40
+43        <activity
+43-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:27:9-37:20
+44            android:name="com.example.android.droidcafeoptions.MainActivity"
+44-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:28:13-77
+45            android:exported="true"
+45-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:31:13-36
+46            android:label="@string/app_name"
+46-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:29:13-45
+47            android:theme="@style/AppTheme.NoActionBar" >
+47-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:30:13-56
+48            <intent-filter>
+48-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:32:13-36:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:33:17-69
+49-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:33:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:35:17-77
+51-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:35:27-74
+52            </intent-filter>
+53        </activity>
+54        <activity android:name="com.example.android.droidcafeoptions.OrderActivity" />
+54-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:38:9-51
+54-->/Users/mannaimortadha/Documents/android-fundamentals-exycodelabs-droid-cafe-options/app/src/main/AndroidManifest.xml:38:19-48
+55
+56        <provider
+56-->[androidx.emoji2:emoji2:1.2.0] /Users/mannaimortadha/.gradle/caches/transforms-3/7a68a716661406a29647e354a1cc8e67/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+57            android:name="androidx.startup.InitializationProvider"
+57-->[androidx.emoji2:emoji2:1.2.0] /Users/mannaimortadha/.gradle/caches/transforms-3/7a68a716661406a29647e354a1cc8e67/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+58            android:authorities="com.example.android.droidcafeoptions.androidx-startup"
+58-->[androidx.emoji2:emoji2:1.2.0] /Users/mannaimortadha/.gradle/caches/transforms-3/7a68a716661406a29647e354a1cc8e67/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+59            android:exported="false" >
+59-->[androidx.emoji2:emoji2:1.2.0] /Users/mannaimortadha/.gradle/caches/transforms-3/7a68a716661406a29647e354a1cc8e67/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+60            <meta-data
+60-->[androidx.emoji2:emoji2:1.2.0] /Users/mannaimortadha/.gradle/caches/transforms-3/7a68a716661406a29647e354a1cc8e67/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+61                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+61-->[androidx.emoji2:emoji2:1.2.0] /Users/mannaimortadha/.gradle/caches/transforms-3/7a68a716661406a29647e354a1cc8e67/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+62                android:value="androidx.startup" />
+62-->[androidx.emoji2:emoji2:1.2.0] /Users/mannaimortadha/.gradle/caches/transforms-3/7a68a716661406a29647e354a1cc8e67/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+63            <meta-data
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mannaimortadha/.gradle/caches/transforms-3/6ab5c7abe37118c6be29ff10ab6a8cb5/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+64                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mannaimortadha/.gradle/caches/transforms-3/6ab5c7abe37118c6be29ff10ab6a8cb5/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+65                android:value="androidx.startup" />
+65-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mannaimortadha/.gradle/caches/transforms-3/6ab5c7abe37118c6be29ff10ab6a8cb5/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+66        </provider>
+67    </application>
+68
+69</manifest>
